@@ -3,14 +3,15 @@ banner:
   title: Hi! I’m <br> Niklas, <br> a student from Austria.
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: "Hello, I am Niklas, currently a student at the HTL St.Pölten in the department
+    of informatics. I will graduate in June 2022 with a Matura / High-School Degree.
+    My interestes lie in the field of DevOps, Mobile Development and Web Development
+    in both Backend and Frontend Parts. I am fluent in Java and English \U0001F913,
+    as well as German, my mother tongue ;). \n\nPlease consider this site as work-in-progress
+    for the time being as I add some more content about me."
   button:
     enable: true
-    label: know more
+    label: Want to know more?
     URL: about
 skill:
   enable: false
