@@ -48,6 +48,9 @@ education:
   enable: true
   title: Education
   item:
+  - title: Primary School Certificate
+    year: "2017"
+    academy: Wienerwaldgymnasium
   - title: Matura
     year: "2022"
     academy: 'HTL St.Pölten, Department of Informatics '
