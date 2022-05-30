@@ -2,21 +2,20 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Niklas Haiden"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "About Me"
 weight = 1
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+author = "Niklas Haiden"
+copyright = "Copyrighht &copy; 2022 Niklas Haiden"
+description = "Personal Blog & Website of Niklas Haiden"
+email = "niklas@haiden.ch"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
@@ -43,14 +42,14 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
+URL = "https://instagram.com/nklsh.jpeg"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
+URL = "https://www.linkedin.com/in/niklas-haiden-352853123/"
+icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
+URL = "https://twitter.com/niklashdev"
 icon = "ti-twitter-alt"
+[[params.social]]
+URL = "https://github.com/NiHaiden"
+icon = "ti-github"
